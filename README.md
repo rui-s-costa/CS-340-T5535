@@ -1,5 +1,45 @@
 # Rui Costa CS 340 Final Project
 
+**1. How do I write programs that are maintainable, readable, and adaptable? What were the advantages of using the CRUD Python module in Project One and Project Two, and how could I use it in the future?**
+
+To write maintainable, readable, and adaptable programs, I follow these strategies:
+- Use clear and descriptive variable/function names
+- Follow coding conventions and style guidelines
+- Break down problems into modular components
+- Comment and document the code
+- Write unit tests for reliability
+
+The CRUD Python module used in Project One and Project Two provides advantages such as:
+- Reusability and reduction of code duplication
+- Separation of concerns for better organization
+- Adaptability to future requirements
+
+In the future, the CRUD module can be used in other projects involving MongoDB, ensuring consistent and efficient database operations.
+
+**2. How do I approach a problem as a computer scientist? How was my approach in the Grazioso Salvare project different from previous assignments, and what techniques/strategies would I use for future client requests?**
+
+As a software developer, I approach problems with systematic thinking and analysis:
+- Understand the problem thoroughly
+- Design a solution and outline the logic
+- Implement the solution using best practices
+- Test, debug, and optimize as necessary
+
+The Grazioso Salvare project involved combining database management, web development, and data analysis skills. In future projects, I would:
+- Understand client requirements clearly
+- Design an appropriate database schema
+- Use the right database technologies
+- Follow best practices for design, optimization, and security
+
+**3. What do computer scientists do, and why does it matter? How does my work benefit a company like Grazioso Salvare?**
+
+Computer scientists drive innovation, solve complex problems, and enable technological advancements. For Grazioso Salvare, my work:
+- Streamlines data management for search-and-rescue dogs
+- Automates and improves efficiency of operations
+- Ensures scalability and adaptability
+- Enables data-driven decision-making
+
+Overall, my work empowers Grazioso Salvare to perform their mission more effectively and contribute to creating a safer environment through optimized search-and-rescue operations.
+
 ## About the Project/Project Title
 Grazioso Salvare is a company specializing in training dogs for search-and-rescue missions. They require a system that can effectively identify and classify potential dogs suitable for this purpose. To meet their requirements, this project aims to develop an application that enables seamless communication and functionality between the client and server. Specifically, it will focus on creating an application to "analyze and categorize available dogs using existing data obtained from animal shelters".
 
